@@ -9,5 +9,5 @@ This repository contains Python workflows that don't really fit in my other repo
 And two mostly unrelated to the atmospheric sciences:
 <ul>
   <li><b>Faculty Alma Maters</b>, which parses data from a <i>Nature</i> publication regarding where university faculty received their terminal degrees. Basic statistics for those in the atmospheric and related sciences are provided.</li>
-  <li>2021 American Community Survey Data</b>, focusing on documenting the states from which people move to Wisconsin and the ages at which they do so, albeit (currently) without considering net migration (i.e., only considering those coming to Wisconsin).</li>
+  <li><b>2021 American Community Survey Data</b>, focusing on documenting the states from which people move to Wisconsin and the ages at which they do so, albeit (currently) without considering net migration (i.e., only considering those coming to Wisconsin).</li>
 </ul>
